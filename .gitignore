@@ -1,0 +1,51 @@
+# ----------------------------
+# C++ Build Files
+# ----------------------------
+
+# Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Libraries
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Debug files
+*.log
+*.dSYM/
+
+# ----------------------------
+# Build Directories
+# ----------------------------
+build/
+bin/
+Debug/
+Release/
+
+# ----------------------------
+# CMake
+# ----------------------------
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# ----------------------------
+# IDE / Editor
+# ----------------------------
+.vscode/
+.idea/
+
+# ----------------------------
+# OS Files
+# ----------------------------
+.DS_Store
+Thumbs.db
